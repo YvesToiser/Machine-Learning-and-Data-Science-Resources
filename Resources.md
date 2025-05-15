@@ -8,6 +8,8 @@
 
 - **NumPy**: Numerical computing with multi-dimensional arrays - [https://numpy.org/](https://numpy.org/)
 
+- **SciPy**: Fundamental algorithms for scientific computing - [https://scipy.org/](https://scipy.org/)
+
 - **fAnalysis**: Python module for factorial analysis - [https://github.com/OlivierGarciaDev/fanalysis](https://github.com/OlivierGarciaDev/fanalysis)
 
 
@@ -59,6 +61,8 @@
 ### **NLP**
 
 - **Gensim**: Topic modeling and NLP - [https://radimrehurek.com/gensim/](https://radimrehurek.com/gensim/)
+
+- **spaCy**: Natural Language Processing - [https://spacy.io/](https://spacy.io/)
 
 - **NLTK**: Natural Language Toolkit - [https://www.nltk.org/](https://www.nltk.org/)
 
