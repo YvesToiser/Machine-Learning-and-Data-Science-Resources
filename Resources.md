@@ -27,6 +27,13 @@
 - **WordCloud**: Word cloud generation - [https://github.com/amueller/word_cloud](https://github.com/amueller/word_cloud)
 
 
+### **Geospatial Visualization**
+
+- **deck.gl**: High-performance framework for geospatial data visualization - [https://deck.gl/docs](https://deck.gl/docs)
+
+- **PyDeck**: Python interface for deck.gl (interactive maps/large datasets) - [https://deckgl.readthedocs.io/en/latest/](https://deckgl.readthedocs.io/en/latest/)
+
+
 ### **Data Validation & ORM (Object-Relational Mapper)**
 
 - **Pydantic**: Data validation and settings management with type hints - [https://docs.pydantic.dev/latest/](https://docs.pydantic.dev/latest/)
