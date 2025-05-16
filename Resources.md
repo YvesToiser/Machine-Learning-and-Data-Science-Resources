@@ -12,11 +12,29 @@
 
 - **fAnalysis**: Python module for factorial analysis - [https://github.com/OlivierGarciaDev/fanalysis](https://github.com/OlivierGarciaDev/fanalysis)
 
+- **StatsModels**: Statistical modeling and econometrics - [https://www.statsmodels.org/](https://www.statsmodels.org/)
+
+
+### **Time Series Analysis**
+
+- **Prophet**: Forecasting tool for time series data - [https://facebook.github.io/prophet/](https://facebook.github.io/prophet/)
+
+- **TensorFlow Time Series**: Time series modeling with TensorFlow - [https://www.tensorflow.org/tutorials/structured_data/time_series](https://www.tensorflow.org/tutorials/structured_data/time_series)
+
 
 ### **Type Checking**
 
 - **mypy**: Static type checker - [https://www.mypy-lang.org/](https://www.mypy-lang.org/)
 
+
+### **Data Validation & ORM (Object-Relational Mapper)**
+
+- **Pydantic**: Data validation and settings management with type hints - [https://docs.pydantic.dev/latest/](https://docs.pydantic.dev/latest/)
+
+- **SQLAlchemy**: SQL Toolkit and ORM (Object-Relational Mapper) - [https://www.sqlalchemy.org/](https://www.sqlalchemy.org/)
+
+
+## **Visualization**
 
 ### **Data Visualization**
 
@@ -36,26 +54,21 @@
 - **PyDeck**: Python interface for deck.gl (interactive maps/large datasets) - [https://deckgl.readthedocs.io/en/latest/](https://deckgl.readthedocs.io/en/latest/)
 
 
-### **Data Validation & ORM (Object-Relational Mapper)**
-
-- **Pydantic**: Data validation and settings management with type hints - [https://docs.pydantic.dev/latest/](https://docs.pydantic.dev/latest/)
-
-- **SQLAlchemy**: SQL Toolkit and ORM (Object-Relational Mapper) - [https://www.sqlalchemy.org/](https://www.sqlalchemy.org/)
-
-
 ## **Machine Learning**
+
+### **Core Frameworks**
 
 - **Scikit-learn**: Machine Learning in Python - [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
 
 - **TensorFlow**: End-to-end open-source platform for machine learning - [https://www.tensorflow.org/](https://www.tensorflow.org/)
 
-- **PyTorch**: Flexible deep learning framework with dynamic computation graphs - [https://pytorch.org/](https://pytorch.org/)
+- **PyTorch**: Flexible deep learning framework - [https://pytorch.org/](https://pytorch.org/)  
 
-- **Fast AI**: High-level wrapper for PyTorch (simplifies training) - [https://docs.fast.ai/](https://docs.fast.ai/)
+- **Fast AI**: High-level wrapper for PyTorch - [https://docs.fast.ai/](https://docs.fast.ai/)
 
-- **Keras**: High-level neural networks API (runs on TensorFlow/PyTorch) - [https://keras.io/](https://keras.io/)
+- **Keras**: High-level neural networks API - [https://keras.io/](https://keras.io/)
 
-- **H2O**: Open-source AI platform for automatic machine learning (AutoML) - [https://h2o.ai/](https://h2o.ai/)
+- **H2O**: Open-source AutoML platform - [https://h2o.ai/](https://h2o.ai/)  
 
 
 ### **NLP**
@@ -71,16 +84,38 @@
 
 ### **Computer Vision**
 
+- **OpenCV**: Real-time computer vision library - [https://opencv.org/](https://opencv.org/)
+
 - **YOLO**: Real-time object detection - [https://docs.ultralytics.com/](https://docs.ultralytics.com/)
 
-- **Supervision**: Utilities for computer vision - [https://supervision.roboflow.com/0.18.0/](https://supervision.roboflow.com/0.18.0/)
+- **TensorFlow Object Detection API**: Pre-trained models for object detection - [https://tensorflow-object-detection-api-tutorial.readthedocs.io/](https://tensorflow-object-detection-api-tutorial.readthedocs.io/)
 
-- **Pillow (PIL)**: Image processing - [https://pillow.readthedocs.io/en/stable/](https://pillow.readthedocs.io/en/stable/)
+- **Supervision**: Computer vision utilities - [https://supervision.roboflow.com/](https://supervision.roboflow.com/)  
+
+- **Pillow (PIL)**: Image processing - [https://pillow.readthedocs.io/](https://pillow.readthedocs.io/)  
 
 
-### **MLOPS**
+### **OCR (Optical Character Recognition)**
 
-- **Valohai**: MLOps platform for managing machine learning pipelines - [https://valohai.com/](https://valohai.com/)
+- **Tesseract OCR**: Open-source OCR engine - [https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
+
+- **EasyOCR**: Ready-to-use OCR with 40+ languages - [https://github.com/JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)
+
+- **PaddleOCR**: OCR toolkit with multilingual support - [https://github.com/PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+
+
+### **Audio Processing**
+
+- **Librosa**: Audio and music analysis - [https://librosa.org/](https://librosa.org/)
+
+- **SpeechRecognition**: Library for speech recognition - [https://pypi.org/project/SpeechRecognition/](https://pypi.org/project/SpeechRecognition/)
+
+- **DeepSpeech**: Open-source speech-to-text engine - [https://github.com/mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)
+
+
+### **MLOps**
+
+- **Valohai**: MLOps platform for pipeline management - [https://valohai.com/](https://valohai.com/)  <!-- Description raccourcie -->
 
 
 ## **Web Development & UI Tools**
